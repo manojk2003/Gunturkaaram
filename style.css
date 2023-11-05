@@ -1,0 +1,39 @@
+html{
+    background-color: black;
+}
+div
+{
+    font-family: 'Libre Baskerville', serif;
+
+
+}
+h1{
+    color: rgb(233, 120, 46);
+    text-align: center;
+
+    
+
+}
+h2{
+    color:red;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: small;
+}
+#Poster1
+{
+    height: 600px;
+    border: 5px solid rgb(126, 99, 71);
+    margin-left: 40px;
+    margin-right: 20px;
+
+
+}
+#Poster2
+{
+    height: 600px;
+    border: 5px solid rgb(126, 99, 71);
+
+
+
+}
